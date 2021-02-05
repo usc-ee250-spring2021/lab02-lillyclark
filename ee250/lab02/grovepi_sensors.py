@@ -1,7 +1,7 @@
 """ EE 250L Lab 02: GrovePi Sensors
 
 List team members here.
-Lilly Clark
+
 
 Insert Github repository link here.
 """
